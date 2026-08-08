@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://airevolutionnow.net/blog-airevolutionnow/sitemap.xml
